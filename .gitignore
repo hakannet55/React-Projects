@@ -25,3 +25,4 @@ yarn-error.log*
 /.idea/modules.xml
 /.idea/React-Projects.iml
 /.idea/vcs.xml
+/.idea/workspace.xml
